@@ -11,7 +11,6 @@ class About(Me):
                 'status': 'Studying'
             },
         ]
-    
     def getSkills(self):
         return [
             'Python',
@@ -25,7 +24,4 @@ class About(Me):
             'SQL',
             
         ]
-    
-    def getFutureGoal(self):
-        return 'To contribute to open source.'
 ```
