@@ -22,7 +22,6 @@ class About(Me):
             'CSS',
             'Django',
             'Git',
-            'SQL',
-            
+            'SQL', 
         ]
 ```
