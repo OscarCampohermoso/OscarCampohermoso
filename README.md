@@ -11,6 +11,7 @@ class About(Me):
                 'status': 'Studying'
             },
         ]
+        
     def getSkills(self):
         return [
             'Python',
