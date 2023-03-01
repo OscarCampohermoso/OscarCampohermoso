@@ -20,6 +20,7 @@ class About(Me):
             'JavaScript',
             'HTML',
             'CSS',
+            'PHP',
             'Django',
             'Git',
             'SQL', 
