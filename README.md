@@ -48,5 +48,4 @@ class Me:
 ```
 
 ## 📊 GitHub Stats
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarCampohermoso&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarCampohermoso&layout=compact&theme=default)
