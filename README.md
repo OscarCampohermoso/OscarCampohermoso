@@ -49,5 +49,4 @@ class Me:
 
 ## 📊 GitHub Stats
 ![OscarCampohermoso's Stats](https://github-readme-stats.vercel.app/api?username=OscarCampohermoso&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![OscarCampohermoso's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OscarCampohermoso&theme=gotham&hide_border=true)
 ![OscarCampohermoso's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarCampohermoso&theme=gotham&show_icons=true&hide_border=true&layout=compact)
